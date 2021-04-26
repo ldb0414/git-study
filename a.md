@@ -2,5 +2,5 @@
 
 
 
-<img src="img/1@2x.png" alt="图片" style="zoom:100%;" />
+<img src="img/1@2x.png" alt="图片" style="zoom:50%;" />
 
